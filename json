@@ -1,0 +1,23 @@
+[
+  {
+    "userName": "Sami Alami",
+    "tittle": "Palletized looks like it’s going to be really useful for our team.",
+    "review": null,
+    "company": "Rift Valley Farms",
+    "rating": null
+  },
+  {
+    "userName": "Alvaro Aaron",
+    "tittle": "Excellent app",
+    "review": "Easy and very Useful",
+    "company": null,
+    "rating": 5
+  },
+  {
+    "userName": "Livia Cabrita",
+    "tittle": "I had to calculate my customer's orders before they ordered",
+    "review": "Customers wanted dims and weight of the cargo before ordering since they wanted to know shipping costs beforehand. Now I can estimate how their order will look and they can calculate their shipping costs. It helped me a lot closing new orders",
+    "company": "Artex Computer LLC",
+    "rating": 5
+  }
+]
