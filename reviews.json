@@ -8,16 +8,23 @@
   },
   {
     "userName": "Alvaro Aaron",
-    "tittle": "Excellent app",
-    "review": "Easy and very Useful",
+    "tittle": "Excelente Aplicación",
+    "review": "Fácil y muy útil",
     "company": null,
     "rating": 5
   },
   {
-    "userName": "Livia Cabrita",
+    "userName": "Artex Computer",
     "tittle": "I had to calculate the cargo before the customer confirmed the order",
     "review": "With Palletized, I can estimate the load and shipping costs before the order is placed — it’s helped me close more deals.",
     "company": "Artex Computer LLC",
+    "rating": 5
+  }
+  {
+    "userName": "Cabrita Livia",
+    "tittle": "Easy and very useful",
+    "review": "Love it",
+    "company": null,
     "rating": 5
   }
 ]
